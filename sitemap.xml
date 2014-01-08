@@ -1,12 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://www.timcancode.com/blog/2014/01/08/52-weeks-52-books-52-reviews/</loc>
+        <lastmod>2014-01-08T18:36:43+13:00</lastmod>
+    </url>
+    <url>
         <loc>http://www.timcancode.com/blog/archives/</loc>
-        <lastmod>2014-01-08T16:07:12+13:00</lastmod>
+        <lastmod>2014-01-08T18:36:43+13:00</lastmod>
     </url>
     <url>
         <loc>http://www.timcancode.com/</loc>
-        <lastmod>2014-01-08T16:07:12+13:00</lastmod>
+        <lastmod>2014-01-08T18:36:43+13:00</lastmod>
     </url>
     <url>
         <loc>http://www.timcancode.com/robots.txt</loc>
