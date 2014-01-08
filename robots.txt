@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://timothyrobb.github.io/sitemap.xml 
+Sitemap: http://www.timcancode.com/sitemap.xml 
